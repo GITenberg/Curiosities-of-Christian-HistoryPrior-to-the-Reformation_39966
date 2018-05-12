@@ -1,0 +1,31 @@
+_repo: Curiosities-of-Christian-HistoryPrior-to-the-Reformation_39966
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39966-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Paterson, James
+    aliases:
+    - James, Croake
+    - Paterson, J. (James)
+    birthdate: 1823
+    deathdate: 1894
+    gutenberg_agent_id: '40336'
+    url: http://www.gutenberg.org/2009/agents/40336
+description: ''
+gutenberg_issued: '2012-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Middle Ages, 600-1500'
+- !lcsh 'Church history -- Miscellanea'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcc 'BR'
+title: Curiosities of Christian History Prior to the Reformation
+url: http://www.gutenberg.org/ebooks/39966
